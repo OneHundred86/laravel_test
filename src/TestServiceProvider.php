@@ -4,7 +4,7 @@ namespace Oh86\LaravelTest;
 use Illuminate\Support\ServiceProvider;
 use \Oh86\LaravelTest\Lib\Test;
 
-class ClassName extends ServiceProvider
+class TestServiceProvider extends ServiceProvider
 {
     public function register()
     {

@@ -18,7 +18,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Oh86\\LaravelTest\\TestProvider"
+                "Oh86\\LaravelTest\\TestServiceProvider"
             ]
         }
     }
